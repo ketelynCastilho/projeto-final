@@ -1,0 +1,79 @@
+@charset "UTF-8";
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  background-color: #0d3162;
+  height: 100px;
+}
+#logo{
+  height: 95px;
+  position: relative;
+  top: 8px;
+}
+.ListaMenu{
+  list-style: none;
+  display:inline-table;
+}
+.LiMenu{
+  float: left;
+  position: relative;
+  left: 20px;
+  margin-left: 100px;
+  color: rgba(211, 211, 211, 0.8);
+  font-family: "DroidSerif-Regular";
+  font-size: 20px;
+  bottom: 23px;
+}
+#Portal{
+  background-color: #0d3162;
+  height: 60px;
+  width: 100%;
+  margin-top: 10px;
+}
+#txtPortal{
+  font-size: 37px;
+  color: white;
+  position: relative;
+  left: 40%;
+  top: 10px;
+  font-family:
+}
+#ImgFundo{
+  height: 600px;
+  width: 100%;
+}
+#Portalopcoes{
+  position: relative;
+  bottom: 570%;
+  left: 60%;
+  height: 530%;
+  width: 400px;
+  background-color: white;
+  border: solid #0d3162 1px;
+}
+#titulo{
+  font-family:"DroidSerif-italic";
+  color: #0d3162;
+  text-align: center;
+  font-size: 40px;
+}
+#subtitulo{
+  font-family: "DroidSerif-Italic";
+  color: #0d3162;
+  text-align: center;
+}
+.linha{
+  position: relative;
+  top: 90px;
+  left: 30px;
+  height: 1px;
+  width: 70%;
+  background-color:#0d3162;
+}
+.unidadeOpc{
+  color: rgba(211, 211, 211, 0.5);
+  font-family: "DroidSerif-Regular";
+  font-size: 20px;
+}
